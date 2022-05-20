@@ -1,0 +1,10 @@
+tb_read.o : tb_module.o
+tb_gen_ham.o : tb_module.o
+tb_gen_kp.o : tb_module.o
+tb_init.o : tb_module.o
+tb_read_hr.o : tb_module.o
+tb_shift.o : tb_module.o
+tb_shift_k.o : tb_module.o
+tb_shift_vc.o : tb_module.o
+tb_shift_kvc.o : tb_module.o
+tb_shin.o : tb_module.o
